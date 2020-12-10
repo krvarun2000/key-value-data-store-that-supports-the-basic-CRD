@@ -11,7 +11,7 @@ class CRD:
                 print("Key already exist in the data store") 
             else:
                 if(key.isalpha()):
-                    if (self.z.__sizeof__())<(1024*1024*1024) and value<=(16*1024*1024): #checking size of file and JSON object
+                    if (self.z.__sizeof__())<(1024*1024*1024) and len(str(value))<=(16*1024*1024): #checking size of file and JSON object
                         if timeout==0:
                             value_time=[value,timeout]#array to store the value and time to live of a key
                         else:
