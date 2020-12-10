@@ -1,3 +1,5 @@
+# Key-Value Datastore
+
 ## Table of contents
 * [General info](#general-info)
 * [Things to be done](#things-to-be-done)
