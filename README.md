@@ -28,7 +28,7 @@ x.read("Varun")
 
 x.delete("Varun")
 ```
-* 
+
 
 ## Workflow
 * The package provides a simple functions the user can import to perform CRD operations on a single process, locally. 
