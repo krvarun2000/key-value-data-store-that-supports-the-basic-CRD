@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Things to be done](#things-to-be-done)
+* [Usage](#Usage)
 * [Workflow](#workflow)
 
 ## General info
